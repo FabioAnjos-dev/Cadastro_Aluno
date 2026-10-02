@@ -15,7 +15,7 @@ Projeto desenvolvido em Python para cadastro de alunos.
 - Git
 - GitHub
 
-- ## Como rodar
+ ## Como rodar
 
 1. Clone o repositório:
    `git clone https://github.com/FabioAnjos-dev/Cadastro_Aluno.git`
